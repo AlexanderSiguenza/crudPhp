@@ -41,6 +41,7 @@
                     </div>
 
                     <?php
+                    //este es mi primer cambio Andrea 
                     // Include config file
                     require_once "config.php";               
                     
