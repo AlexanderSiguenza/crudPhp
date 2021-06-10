@@ -1,4 +1,5 @@
 <?php
+// este es mi primer cambio Alex
 // Check existence of id parameter before processing further
 if(isset($_GET["id"]) && !empty(trim($_GET["id"]))){
     // Include config file
